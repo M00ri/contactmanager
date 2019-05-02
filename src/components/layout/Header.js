@@ -29,12 +29,6 @@ const Header = props => {
 								About
 							</NavLink>
 						</li>
-						<li>
-							<NavLink to='/test' className='nav-link'>
-								<i className='fas fa-check mr-1' />
-								Test
-							</NavLink>
-						</li>
 					</ul>
 				</div>
 			</div>
