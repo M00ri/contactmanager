@@ -7,7 +7,7 @@ const Header = props => {
 	return (
 		<nav className='navbar navbar-expand-sm navbar-dark bg-danger mb-3 py-0'>
 			<div className='container'>
-				<NavLink href='/' className='navbar-brand'>
+				<NavLink to='/' className='navbar-brand'>
 					{branding}
 				</NavLink>
 				<div>
